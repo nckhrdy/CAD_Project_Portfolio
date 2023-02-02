@@ -1,7 +1,7 @@
 # School Projects Folder
 
 Nicholas Hardy
-Bu Eng 24
+BU Eng 24
 
 # Summary
 
